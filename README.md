@@ -1,16 +1,14 @@
-### Hi there 👋
+<h2>Prazer sou o Guilherme machado 👦🏼💻</h2>
 
-<!--
-**guilhermeMgimenez/guilhermeMgimenez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-machado-gimenez-7125b6255/)
 
-Here are some ideas to get you started:
+[![Email](https://img.shields.io/badge/-Outlook-blue?style=flat&logo=Mail&logoColor=white)](mailto:machadoguilherme680@gmail.com)
+<h3>Você pode conhecer meu portifólio em (https://guilhermeMgimenez.github.io/)</h3>
+Atualmente estou estudando no Senac Americana, no curso técnico em técnico em informatica. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 <b>Desenvolvimento web utilizando HTML, CSS, JavaScript e PHP.</b>
+<hr>
+<p align="center"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermeMgimenez&show_icons=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeMgimenez&show_icons=true&layout=compact" />
+</p>
