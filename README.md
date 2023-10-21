@@ -4,7 +4,8 @@
 
 [![Email](https://img.shields.io/badge/-Outlook-blue?style=flat&logo=Mail&logoColor=white)](mailto:machadoguilherme680@gmail.com)
 <h3>Você pode conhecer meu portifólio em (https://guilhermeMgimenez.github.io/)</h3>
-Atualmente estou estudando no Senac Americana, no curso técnico em técnico em informatica. 
+Formado no Senac Americana, curso técnico em técnico em informatica. 
+Cursando faculdade de ciência da computação na FAM, Faculdade De Americana.
 
 - 🌐 <b>Desenvolvimento web utilizando HTML, CSS, JavaScript e PHP.</b>
 <hr>
