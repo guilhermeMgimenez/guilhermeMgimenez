@@ -1,4 +1,4 @@
-<h2>Prazer sou o Guilherme machado 👦🏼💻</h2>
+<h2>Prazer sou o Guilherme machado</h2>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-machado-gimenez-7125b6255/)
 
