@@ -4,16 +4,15 @@
 
 Me chamo Guilherme Machado Gimenez, tenho 21 anos, Sou dev **Full-Stack Júnior** que vive entre **música** e **código**. Gosto de construir apps simples, bem testados e fáceis de usar — enquanto aprendo todos os dias e contribuo com a comunidade.
 
-<p align="center">
-  <a href="www.linkedin.com/in/guilherme-machado-gimenez-7125b6255" target="_blank">
-    <img alt="LinkedIn"
-         src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<div align="center" style="display:flex; justify-content:center; gap:12px;">
+  <a href="https://www.linkedin.com/in/guilherme-machado-gimenez-7125b6255" target="_blank" rel="noopener noreferrer">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/guilh3rme.wav" target="_blank">
-    <img alt="Instagram"
-         src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <a href="https://www.instagram.com/guilh3rme.wav" target="_blank" rel="noopener noreferrer">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-</p>
+</div>
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
